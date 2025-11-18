@@ -9,6 +9,9 @@ This is a full-stack starter template for quickly building and testing Web3 idea
 - Smart contract interaction demo
 
 Use this template to kickstart your project, prototype ideas, and showcase a working proof-of-concept.
+Algorand-dApp-Quick-Start-Template Reference Guide for step-by-step instructions, AI prompts, and troubleshooting tips:
+[View the guide](https://docs.google.com/document/d/1f_ysbtFOLKM_Tjvey7VCcGYsAzOmyEVmsdC5si936wc/edit?usp=sharing)
+
 
 ## 🌟 How To Get Started Instructions
 
